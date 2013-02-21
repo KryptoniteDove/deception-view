@@ -1,0 +1,38 @@
+{
+    "name": "deception_view",
+    "title": "jQuery Deception View by Kryptonite Dove",
+    "description": "jQuery plugin text and image display. This lightweight application is HTML 5 & CSS 3 ready. Fully customiseable with CSS and in application settings, can also be called without arguments for default state. ",
+    "keywords": [
+        "content manipulation",
+        "animation",
+        "HTML 5",
+        "CSS 3",
+        "text,
+        "image"
+    ],
+    "version": "0.4",
+    "author": {
+        "name": "Richard Duncan",
+        "url": "https://github.com/KryptoniteDove/deception-view/documentation/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Richard Duncan",
+            "email": "richduncan@gmail.com",
+            "url": "http://kryptonite-dove.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/KryptoniteDove/deception-view/documentation/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/KryptoniteDove/deception-view/issues",
+    "homepage": "https://github.com/KryptoniteDove/deception-view",
+    "docs": "https://github.com/KryptoniteDove/deception-view/documentation",
+    "download": "http://code.jquery.com/#deception_view",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
